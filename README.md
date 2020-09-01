@@ -9,6 +9,7 @@ This repo contains all my work for this specialization. All the code and quizzes
 ## Programming Assignments
 
 - [Course 1: Web Application Technologies and Django](Course-1)
+  - [Week 1 - Slides](Course-1/W1-Introduction-to-Dynamic-Web-Content/C1-Week1.pptx)
   - [Week 1 - External Tool - Exploring the HyperText Transfer Protocol](Course-1/W1-Introduction-to-Dynamic-Web-Content/http.txt)
   - [Week 1 - Practice Quiz 1 - The Request / Response Cycle](Course-1/W1-Introduction-to-Dynamic-Web-Content/Practice-Quiz.md)
 
