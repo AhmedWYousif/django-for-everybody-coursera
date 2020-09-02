@@ -12,6 +12,9 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 1 - Slides](Course-1/W1-Introduction-to-Dynamic-Web-Content/C1-Week1.pptx)
   - [Week 1 - External Tool - Exploring the HyperText Transfer Protocol](Course-1/W1-Introduction-to-Dynamic-Web-Content/http.txt)
   - [Week 1 - Practice Quiz 1 - The Request / Response Cycle](Course-1/W1-Introduction-to-Dynamic-Web-Content/Practice-Quiz.md)
+  - [Week 2 - External Tool - Installing Django](Course-1/W2-Installing-Django-on-PythonAnywhere/install-django.sh)
+  - [Week 2 - Practice Quiz 1 - Django Tutorial](Course-1/W2-Installing-Django-on-PythonAnywhere/Practice-Quiz.md)
+
 
 
 
