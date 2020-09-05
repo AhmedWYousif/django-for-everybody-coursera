@@ -17,7 +17,9 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 3 - Slides](Course-1/W3-Hypertext-Markup-Language/C1-Week3.pptx)
   - [Week 3 - External Tool - HTML](Course-1/W3-Hypertext-Markup-Language/adding-html.sh)
   - [Week 3 - Practice Quiz 1 - HTML](Course-1/W3-Hypertext-Markup-Language/Practice-Quiz.md)
-
+  - [Week 4 - Slides](Course-1/W4-Cascading-Style-Sheets/C1-Week4.pptx)
+  - [Week 4 - External Tool - CSS](Course-1/W4-Cascading-Style-Sheets/)
+  - [Week 4 - Practice Quiz 1 - CSS](Course-1/W4-Cascading-Style-Sheets/Practice-Quiz.md)
 
 
 
