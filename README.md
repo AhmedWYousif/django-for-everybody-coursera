@@ -20,8 +20,9 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 4 - Slides](Course-1/W4-Cascading-Style-Sheets/C1-Week4.pptx)
   - [Week 4 - External Tool - CSS](Course-1/W4-Cascading-Style-Sheets/)
   - [Week 4 - Practice Quiz 1 - CSS](Course-1/W4-Cascading-Style-Sheets/Practice-Quiz.md)
-
-
+  - [Week 5 - Slides](Course-1/W5-SQL/C1-Week5.pptx)
+  - [Week 5 - External Tool - Basic SQL](Course-1/W5-SQL/sql.sh)
+  - [Week 5 - Practice Quiz 1 - Basic SQL](Course-1/W5-SQL/Practice-Quiz.md)
 
 - [Course 2: Building Web Applications in Django](Course-2)
  
