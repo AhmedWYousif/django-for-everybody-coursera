@@ -29,6 +29,8 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 1 - Slides 2](Course-2/W1-Data-Models/C1-Week1-2.pptx)
   - [Week 1 - Practice Quiz 1 - Django Tutorial 1](Course-2/W1-Data-Models/Practice-Quiz.md)
   - [Week 1 - Practice Quiz 2 - Model View Controller](Course-2/W1-Data-Models/Practice-Quiz2.md)
+  - [Week 2 - Practice Quiz 1 - Django Tutorial 1](Course-2/W2-Django-Views/Practice-Quiz.md)
+  - [Week 2 - Practice Quiz 2 - Model View Controller](Course-2/W2-Django-Views/Practice-Quiz2.md)
  
 - [Course 3: Django Features and Libraries](Course-3)
  
