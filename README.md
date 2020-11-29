@@ -32,6 +32,10 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 2 - Slides](Course-2/W2-Django-Views/C2-Week2.pptx)
   - [Week 2 - Practice Quiz 1 - Django Tutorial 1](Course-2/W2-Django-Views/Practice-Quiz.md)
   - [Week 2 - Practice Quiz 2 - Model View Controller](Course-2/W2-Django-Views/Practice-Quiz2.md)
+  - [Week 3 - Slides 1](Course-2/W3-Django-Generic-Views/C2-Week3-1.pptx)
+  - [Week 3 - Slides 2](Course-2/W3-Django-Generic-Views/C2-Week3-2.pptx)
+  - [Week 3 - Practice Quiz 1 - Object Oriented Python](Course-2/W3-Django-Generic-Views/Practice-Quiz.md)
+  - [Week 3 - Practice Quiz 2 - ](Course-2/W3-Django-Generic-Views/Practice-Quiz2.md)
  
 - [Course 3: Django Features and Libraries](Course-3)
  
