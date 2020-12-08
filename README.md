@@ -39,10 +39,12 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 4 - Slides](Course-2/W4-Forms-in-HTTP-and-HTML/C2-Week4.pptx)
   - [Week 4 - Practice Quiz 1 - Tutorial 4](Course-2/W4-Forms-in-HTTP-and-HTML/Practice-Quiz.md)
   - [Week 4 - Practice Quiz 2 - Forms and HTML](Course-2/W4-Forms-in-HTTP-and-HTML/Practice-Quiz2.md)
-
-  
  
 - [Course 3: Django Features and Libraries](Course-3)
+  - [Week 1 - Slides](Course-3/W1-Cookies-and-Sessions/C3-Week1.pptx)
+  - [Week 1 - Practice Quiz 1 - Cookies and Sessions](Course-3/W1-Cookies-and-Sessions/Practice-Quiz.md)
  
+
+
 - [Course 4: Using JavaScript, JQuery, and JSON in Django](Course-4)
  
