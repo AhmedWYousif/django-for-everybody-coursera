@@ -43,7 +43,8 @@ This repo contains all my work for this specialization. All the code and quizzes
 - [Course 3: Django Features and Libraries](Course-3)
   - [Week 1 - Slides](Course-3/W1-Cookies-and-Sessions/C3-Week1.pptx)
   - [Week 1 - Practice Quiz 1 - Cookies and Sessions](Course-3/W1-Cookies-and-Sessions/Practice-Quiz.md)
- 
+  - [Week 2 - Slides](Course-3/W2-Users-and-Authentication/C3-Week2.pptx)
+  - [Week 2 - Practice Quiz: Login and Authentication](Course-3/W2-Users-and-Authentication/Practice-Quiz.md)
 
 
 - [Course 4: Using JavaScript, JQuery, and JSON in Django](Course-4)
